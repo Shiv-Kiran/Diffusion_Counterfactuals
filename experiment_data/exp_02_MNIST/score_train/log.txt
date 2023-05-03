@@ -1,0 +1,763 @@
+Logging to /Users/neha-mac/Documents/Diff-CF/experiment_data/exp_02_MNIST/score_train
+creating model and diffusion...
+Model number of parameters 1178177
+creating data loader...
+training...
+saving model 0...
+saving model 0.9999...
+-------------------------
+| grad_norm  | 4.68     |
+| param_norm | 52.1     |
+| samples    | 256      |
+| step       | 0        |
+| train_loss | 1.01     |
+| train_mse  | 1.01     |
+| val_loss   | 0.994    |
+| val_mse    | 0.994    |
+-------------------------
+-------------------------
+| grad_norm  | 4.37     |
+| param_norm | 52.1     |
+| samples    | 1.31e+04 |
+| step       | 50       |
+| train_loss | 0.795    |
+| train_mse  | 0.795    |
+| val_loss   | 0.582    |
+| val_mse    | 0.582    |
+-------------------------
+-------------------------
+| grad_norm  | 3.41     |
+| param_norm | 52.2     |
+| samples    | 2.59e+04 |
+| step       | 100      |
+| train_loss | 0.424    |
+| train_mse  | 0.424    |
+| val_loss   | 0.284    |
+| val_mse    | 0.284    |
+-------------------------
+-------------------------
+| grad_norm  | 2.26     |
+| param_norm | 52.2     |
+| samples    | 3.87e+04 |
+| step       | 150      |
+| train_loss | 0.213    |
+| train_mse  | 0.213    |
+| val_loss   | 0.14     |
+| val_mse    | 0.14     |
+-------------------------
+-------------------------
+| grad_norm  | 1.41     |
+| param_norm | 52.3     |
+| samples    | 5.15e+04 |
+| step       | 200      |
+| train_loss | 0.112    |
+| train_mse  | 0.112    |
+| val_loss   | 0.0769   |
+| val_mse    | 0.0769   |
+-------------------------
+-------------------------
+| grad_norm  | 0.836    |
+| param_norm | 52.3     |
+| samples    | 6.43e+04 |
+| step       | 250      |
+| train_loss | 0.072    |
+| train_mse  | 0.072    |
+| val_loss   | 0.0517   |
+| val_mse    | 0.0517   |
+-------------------------
+-------------------------
+| grad_norm  | 0.503    |
+| param_norm | 52.3     |
+| samples    | 7.71e+04 |
+| step       | 300      |
+| train_loss | 0.0558   |
+| train_mse  | 0.0558   |
+| val_loss   | 0.0425   |
+| val_mse    | 0.0425   |
+-------------------------
+-------------------------
+| grad_norm  | 0.351    |
+| param_norm | 52.4     |
+| samples    | 8.99e+04 |
+| step       | 350      |
+| train_loss | 0.0471   |
+| train_mse  | 0.0471   |
+| val_loss   | 0.0398   |
+| val_mse    | 0.0398   |
+-------------------------
+-------------------------
+| grad_norm  | 0.292    |
+| param_norm | 52.4     |
+| samples    | 1.03e+05 |
+| step       | 400      |
+| train_loss | 0.0445   |
+| train_mse  | 0.0445   |
+| val_loss   | 0.0367   |
+| val_mse    | 0.0367   |
+-------------------------
+-------------------------
+| grad_norm  | 0.302    |
+| param_norm | 52.4     |
+| samples    | 1.15e+05 |
+| step       | 450      |
+| train_loss | 0.0432   |
+| train_mse  | 0.0432   |
+| val_loss   | 0.0369   |
+| val_mse    | 0.0369   |
+-------------------------
+-------------------------
+| grad_norm  | 0.271    |
+| param_norm | 52.4     |
+| samples    | 1.28e+05 |
+| step       | 500      |
+| train_loss | 0.0424   |
+| train_mse  | 0.0424   |
+| val_loss   | 0.037    |
+| val_mse    | 0.037    |
+-------------------------
+-------------------------
+| grad_norm  | 0.241    |
+| param_norm | 52.4     |
+| samples    | 1.41e+05 |
+| step       | 550      |
+| train_loss | 0.0405   |
+| train_mse  | 0.0405   |
+| val_loss   | 0.0355   |
+| val_mse    | 0.0355   |
+-------------------------
+-------------------------
+| grad_norm  | 0.259    |
+| param_norm | 52.4     |
+| samples    | 1.54e+05 |
+| step       | 600      |
+| train_loss | 0.0404   |
+| train_mse  | 0.0404   |
+| val_loss   | 0.0346   |
+| val_mse    | 0.0346   |
+-------------------------
+-------------------------
+| grad_norm  | 0.216    |
+| param_norm | 52.4     |
+| samples    | 1.67e+05 |
+| step       | 650      |
+| train_loss | 0.0379   |
+| train_mse  | 0.0379   |
+| val_loss   | 0.0344   |
+| val_mse    | 0.0344   |
+-------------------------
+-------------------------
+| grad_norm  | 0.231    |
+| param_norm | 52.5     |
+| samples    | 1.79e+05 |
+| step       | 700      |
+| train_loss | 0.0372   |
+| train_mse  | 0.0372   |
+| val_loss   | 0.0337   |
+| val_mse    | 0.0337   |
+-------------------------
+-------------------------
+| grad_norm  | 0.217    |
+| param_norm | 52.5     |
+| samples    | 1.92e+05 |
+| step       | 750      |
+| train_loss | 0.0369   |
+| train_mse  | 0.0369   |
+| val_loss   | 0.0338   |
+| val_mse    | 0.0338   |
+-------------------------
+-------------------------
+| grad_norm  | 0.248    |
+| param_norm | 52.5     |
+| samples    | 2.05e+05 |
+| step       | 800      |
+| train_loss | 0.0367   |
+| train_mse  | 0.0367   |
+| val_loss   | 0.0333   |
+| val_mse    | 0.0333   |
+-------------------------
+-------------------------
+| grad_norm  | 0.208    |
+| param_norm | 52.5     |
+| samples    | 2.18e+05 |
+| step       | 850      |
+| train_loss | 0.0354   |
+| train_mse  | 0.0354   |
+| val_loss   | 0.032    |
+| val_mse    | 0.032    |
+-------------------------
+-------------------------
+| grad_norm  | 0.228    |
+| param_norm | 52.5     |
+| samples    | 2.31e+05 |
+| step       | 900      |
+| train_loss | 0.0354   |
+| train_mse  | 0.0354   |
+| val_loss   | 0.0319   |
+| val_mse    | 0.0319   |
+-------------------------
+-------------------------
+| grad_norm  | 0.211    |
+| param_norm | 52.5     |
+| samples    | 2.43e+05 |
+| step       | 950      |
+| train_loss | 0.035    |
+| train_mse  | 0.035    |
+| val_loss   | 0.0314   |
+| val_mse    | 0.0314   |
+-------------------------
+saving model 0...
+saving model 0.9999...
+-------------------------
+| grad_norm  | 0.235    |
+| param_norm | 52.5     |
+| samples    | 2.56e+05 |
+| step       | 1e+03    |
+| train_loss | 0.0368   |
+| train_mse  | 0.0368   |
+| val_loss   | 0.0317   |
+| val_mse    | 0.0317   |
+-------------------------
+-------------------------
+| grad_norm  | 0.225    |
+| param_norm | 52.5     |
+| samples    | 2.69e+05 |
+| step       | 1.05e+03 |
+| train_loss | 0.0338   |
+| train_mse  | 0.0338   |
+| val_loss   | 0.0326   |
+| val_mse    | 0.0326   |
+-------------------------
+-------------------------
+| grad_norm  | 0.255    |
+| param_norm | 52.5     |
+| samples    | 2.82e+05 |
+| step       | 1.1e+03  |
+| train_loss | 0.0365   |
+| train_mse  | 0.0365   |
+| val_loss   | 0.0308   |
+| val_mse    | 0.0308   |
+-------------------------
+-------------------------
+| grad_norm  | 0.221    |
+| param_norm | 52.5     |
+| samples    | 2.95e+05 |
+| step       | 1.15e+03 |
+| train_loss | 0.0344   |
+| train_mse  | 0.0344   |
+| val_loss   | 0.0315   |
+| val_mse    | 0.0315   |
+-------------------------
+-------------------------
+| grad_norm  | 0.206    |
+| param_norm | 52.5     |
+| samples    | 3.07e+05 |
+| step       | 1.2e+03  |
+| train_loss | 0.0326   |
+| train_mse  | 0.0326   |
+| val_loss   | 0.0321   |
+| val_mse    | 0.0321   |
+-------------------------
+-------------------------
+| grad_norm  | 0.202    |
+| param_norm | 52.5     |
+| samples    | 3.2e+05  |
+| step       | 1.25e+03 |
+| train_loss | 0.0334   |
+| train_mse  | 0.0334   |
+| val_loss   | 0.0313   |
+| val_mse    | 0.0313   |
+-------------------------
+-------------------------
+| grad_norm  | 0.194    |
+| param_norm | 52.6     |
+| samples    | 3.33e+05 |
+| step       | 1.3e+03  |
+| train_loss | 0.0334   |
+| train_mse  | 0.0334   |
+| val_loss   | 0.0301   |
+| val_mse    | 0.0301   |
+-------------------------
+-------------------------
+| grad_norm  | 0.24     |
+| param_norm | 52.6     |
+| samples    | 3.46e+05 |
+| step       | 1.35e+03 |
+| train_loss | 0.0335   |
+| train_mse  | 0.0335   |
+| val_loss   | 0.0302   |
+| val_mse    | 0.0302   |
+-------------------------
+-------------------------
+| grad_norm  | 0.236    |
+| param_norm | 52.6     |
+| samples    | 3.59e+05 |
+| step       | 1.4e+03  |
+| train_loss | 0.0336   |
+| train_mse  | 0.0336   |
+| val_loss   | 0.0321   |
+| val_mse    | 0.0321   |
+-------------------------
+-------------------------
+| grad_norm  | 0.185    |
+| param_norm | 52.6     |
+| samples    | 3.71e+05 |
+| step       | 1.45e+03 |
+| train_loss | 0.033    |
+| train_mse  | 0.033    |
+| val_loss   | 0.0299   |
+| val_mse    | 0.0299   |
+-------------------------
+-------------------------
+| grad_norm  | 0.189    |
+| param_norm | 52.6     |
+| samples    | 3.84e+05 |
+| step       | 1.5e+03  |
+| train_loss | 0.032    |
+| train_mse  | 0.032    |
+| val_loss   | 0.0304   |
+| val_mse    | 0.0304   |
+-------------------------
+-------------------------
+| grad_norm  | 0.232    |
+| param_norm | 52.6     |
+| samples    | 3.97e+05 |
+| step       | 1.55e+03 |
+| train_loss | 0.0326   |
+| train_mse  | 0.0326   |
+| val_loss   | 0.0301   |
+| val_mse    | 0.0301   |
+-------------------------
+-------------------------
+| grad_norm  | 0.24     |
+| param_norm | 52.6     |
+| samples    | 4.1e+05  |
+| step       | 1.6e+03  |
+| train_loss | 0.0319   |
+| train_mse  | 0.0319   |
+| val_loss   | 0.0302   |
+| val_mse    | 0.0302   |
+-------------------------
+-------------------------
+| grad_norm  | 0.222    |
+| param_norm | 52.6     |
+| samples    | 4.23e+05 |
+| step       | 1.65e+03 |
+| train_loss | 0.0324   |
+| train_mse  | 0.0324   |
+| val_loss   | 0.0302   |
+| val_mse    | 0.0302   |
+-------------------------
+-------------------------
+| grad_norm  | 0.197    |
+| param_norm | 52.6     |
+| samples    | 4.35e+05 |
+| step       | 1.7e+03  |
+| train_loss | 0.032    |
+| train_mse  | 0.032    |
+| val_loss   | 0.0289   |
+| val_mse    | 0.0289   |
+-------------------------
+-------------------------
+| grad_norm  | 0.187    |
+| param_norm | 52.6     |
+| samples    | 4.48e+05 |
+| step       | 1.75e+03 |
+| train_loss | 0.0313   |
+| train_mse  | 0.0313   |
+| val_loss   | 0.0296   |
+| val_mse    | 0.0296   |
+-------------------------
+-------------------------
+| grad_norm  | 0.226    |
+| param_norm | 52.6     |
+| samples    | 4.61e+05 |
+| step       | 1.8e+03  |
+| train_loss | 0.0328   |
+| train_mse  | 0.0328   |
+| val_loss   | 0.0291   |
+| val_mse    | 0.0291   |
+-------------------------
+-------------------------
+| grad_norm  | 0.167    |
+| param_norm | 52.6     |
+| samples    | 4.74e+05 |
+| step       | 1.85e+03 |
+| train_loss | 0.0306   |
+| train_mse  | 0.0306   |
+| val_loss   | 0.0298   |
+| val_mse    | 0.0298   |
+-------------------------
+-------------------------
+| grad_norm  | 0.185    |
+| param_norm | 52.6     |
+| samples    | 4.87e+05 |
+| step       | 1.9e+03  |
+| train_loss | 0.0316   |
+| train_mse  | 0.0316   |
+| val_loss   | 0.0293   |
+| val_mse    | 0.0293   |
+-------------------------
+-------------------------
+| grad_norm  | 0.203    |
+| param_norm | 52.6     |
+| samples    | 4.99e+05 |
+| step       | 1.95e+03 |
+| train_loss | 0.0315   |
+| train_mse  | 0.0315   |
+| val_loss   | 0.0298   |
+| val_mse    | 0.0298   |
+-------------------------
+saving model 0...
+saving model 0.9999...
+-------------------------
+| grad_norm  | 0.197    |
+| param_norm | 52.6     |
+| samples    | 5.12e+05 |
+| step       | 2e+03    |
+| train_loss | 0.0315   |
+| train_mse  | 0.0315   |
+| val_loss   | 0.029    |
+| val_mse    | 0.029    |
+-------------------------
+-------------------------
+| grad_norm  | 0.19     |
+| param_norm | 52.6     |
+| samples    | 5.25e+05 |
+| step       | 2.05e+03 |
+| train_loss | 0.0307   |
+| train_mse  | 0.0307   |
+| val_loss   | 0.0291   |
+| val_mse    | 0.0291   |
+-------------------------
+-------------------------
+| grad_norm  | 0.177    |
+| param_norm | 52.7     |
+| samples    | 5.38e+05 |
+| step       | 2.1e+03  |
+| train_loss | 0.0307   |
+| train_mse  | 0.0307   |
+| val_loss   | 0.0284   |
+| val_mse    | 0.0284   |
+-------------------------
+-------------------------
+| grad_norm  | 0.202    |
+| param_norm | 52.7     |
+| samples    | 5.51e+05 |
+| step       | 2.15e+03 |
+| train_loss | 0.0313   |
+| train_mse  | 0.0313   |
+| val_loss   | 0.0278   |
+| val_mse    | 0.0278   |
+-------------------------
+-------------------------
+| grad_norm  | 0.193    |
+| param_norm | 52.7     |
+| samples    | 5.63e+05 |
+| step       | 2.2e+03  |
+| train_loss | 0.0307   |
+| train_mse  | 0.0307   |
+| val_loss   | 0.0279   |
+| val_mse    | 0.0279   |
+-------------------------
+-------------------------
+| grad_norm  | 0.186    |
+| param_norm | 52.7     |
+| samples    | 5.76e+05 |
+| step       | 2.25e+03 |
+| train_loss | 0.0307   |
+| train_mse  | 0.0307   |
+| val_loss   | 0.029    |
+| val_mse    | 0.029    |
+-------------------------
+-------------------------
+| grad_norm  | 0.213    |
+| param_norm | 52.7     |
+| samples    | 5.89e+05 |
+| step       | 2.3e+03  |
+| train_loss | 0.0312   |
+| train_mse  | 0.0312   |
+| val_loss   | 0.0282   |
+| val_mse    | 0.0282   |
+-------------------------
+-------------------------
+| grad_norm  | 0.196    |
+| param_norm | 52.7     |
+| samples    | 6.02e+05 |
+| step       | 2.35e+03 |
+| train_loss | 0.0301   |
+| train_mse  | 0.0301   |
+| val_loss   | 0.0286   |
+| val_mse    | 0.0286   |
+-------------------------
+-------------------------
+| grad_norm  | 0.19     |
+| param_norm | 52.7     |
+| samples    | 6.15e+05 |
+| step       | 2.4e+03  |
+| train_loss | 0.0303   |
+| train_mse  | 0.0303   |
+| val_loss   | 0.0281   |
+| val_mse    | 0.0281   |
+-------------------------
+-------------------------
+| grad_norm  | 0.208    |
+| param_norm | 52.7     |
+| samples    | 6.27e+05 |
+| step       | 2.45e+03 |
+| train_loss | 0.0308   |
+| train_mse  | 0.0308   |
+| val_loss   | 0.0277   |
+| val_mse    | 0.0277   |
+-------------------------
+-------------------------
+| grad_norm  | 0.193    |
+| param_norm | 52.7     |
+| samples    | 6.4e+05  |
+| step       | 2.5e+03  |
+| train_loss | 0.0298   |
+| train_mse  | 0.0298   |
+| val_loss   | 0.028    |
+| val_mse    | 0.028    |
+-------------------------
+-------------------------
+| grad_norm  | 0.21     |
+| param_norm | 52.7     |
+| samples    | 6.53e+05 |
+| step       | 2.55e+03 |
+| train_loss | 0.0302   |
+| train_mse  | 0.0302   |
+| val_loss   | 0.0283   |
+| val_mse    | 0.0283   |
+-------------------------
+-------------------------
+| grad_norm  | 0.185    |
+| param_norm | 52.7     |
+| samples    | 6.66e+05 |
+| step       | 2.6e+03  |
+| train_loss | 0.0292   |
+| train_mse  | 0.0292   |
+| val_loss   | 0.028    |
+| val_mse    | 0.028    |
+-------------------------
+-------------------------
+| grad_norm  | 0.194    |
+| param_norm | 52.7     |
+| samples    | 6.79e+05 |
+| step       | 2.65e+03 |
+| train_loss | 0.0302   |
+| train_mse  | 0.0302   |
+| val_loss   | 0.0266   |
+| val_mse    | 0.0266   |
+-------------------------
+-------------------------
+| grad_norm  | 0.195    |
+| param_norm | 52.7     |
+| samples    | 6.91e+05 |
+| step       | 2.7e+03  |
+| train_loss | 0.0299   |
+| train_mse  | 0.0299   |
+| val_loss   | 0.0267   |
+| val_mse    | 0.0267   |
+-------------------------
+-------------------------
+| grad_norm  | 0.164    |
+| param_norm | 52.7     |
+| samples    | 7.04e+05 |
+| step       | 2.75e+03 |
+| train_loss | 0.0289   |
+| train_mse  | 0.0289   |
+| val_loss   | 0.0278   |
+| val_mse    | 0.0278   |
+-------------------------
+-------------------------
+| grad_norm  | 0.184    |
+| param_norm | 52.7     |
+| samples    | 7.17e+05 |
+| step       | 2.8e+03  |
+| train_loss | 0.0293   |
+| train_mse  | 0.0293   |
+| val_loss   | 0.0292   |
+| val_mse    | 0.0292   |
+-------------------------
+-------------------------
+| grad_norm  | 0.201    |
+| param_norm | 52.7     |
+| samples    | 7.3e+05  |
+| step       | 2.85e+03 |
+| train_loss | 0.0294   |
+| train_mse  | 0.0294   |
+| val_loss   | 0.0273   |
+| val_mse    | 0.0273   |
+-------------------------
+-------------------------
+| grad_norm  | 0.173    |
+| param_norm | 52.7     |
+| samples    | 7.43e+05 |
+| step       | 2.9e+03  |
+| train_loss | 0.0288   |
+| train_mse  | 0.0288   |
+| val_loss   | 0.0267   |
+| val_mse    | 0.0267   |
+-------------------------
+-------------------------
+| grad_norm  | 0.202    |
+| param_norm | 52.7     |
+| samples    | 7.55e+05 |
+| step       | 2.95e+03 |
+| train_loss | 0.0299   |
+| train_mse  | 0.0299   |
+| val_loss   | 0.0276   |
+| val_mse    | 0.0276   |
+-------------------------
+saving model 0...
+saving model 0.9999...
+-------------------------
+| grad_norm  | 0.196    |
+| param_norm | 52.8     |
+| samples    | 7.68e+05 |
+| step       | 3e+03    |
+| train_loss | 0.0292   |
+| train_mse  | 0.0292   |
+| val_loss   | 0.0284   |
+| val_mse    | 0.0284   |
+-------------------------
+-------------------------
+| grad_norm  | 0.199    |
+| param_norm | 52.8     |
+| samples    | 7.81e+05 |
+| step       | 3.05e+03 |
+| train_loss | 0.0296   |
+| train_mse  | 0.0296   |
+| val_loss   | 0.0273   |
+| val_mse    | 0.0273   |
+-------------------------
+-------------------------
+| grad_norm  | 0.181    |
+| param_norm | 52.8     |
+| samples    | 7.94e+05 |
+| step       | 3.1e+03  |
+| train_loss | 0.0284   |
+| train_mse  | 0.0284   |
+| val_loss   | 0.0271   |
+| val_mse    | 0.0271   |
+-------------------------
+-------------------------
+| grad_norm  | 0.171    |
+| param_norm | 52.8     |
+| samples    | 8.07e+05 |
+| step       | 3.15e+03 |
+| train_loss | 0.029    |
+| train_mse  | 0.029    |
+| val_loss   | 0.0269   |
+| val_mse    | 0.0269   |
+-------------------------
+-------------------------
+| grad_norm  | 0.166    |
+| param_norm | 52.8     |
+| samples    | 8.19e+05 |
+| step       | 3.2e+03  |
+| train_loss | 0.0279   |
+| train_mse  | 0.0279   |
+| val_loss   | 0.0268   |
+| val_mse    | 0.0268   |
+-------------------------
+-------------------------
+| grad_norm  | 0.196    |
+| param_norm | 52.8     |
+| samples    | 8.32e+05 |
+| step       | 3.25e+03 |
+| train_loss | 0.0295   |
+| train_mse  | 0.0295   |
+| val_loss   | 0.0267   |
+| val_mse    | 0.0267   |
+-------------------------
+-------------------------
+| grad_norm  | 0.163    |
+| param_norm | 52.8     |
+| samples    | 8.45e+05 |
+| step       | 3.3e+03  |
+| train_loss | 0.0282   |
+| train_mse  | 0.0282   |
+| val_loss   | 0.027    |
+| val_mse    | 0.027    |
+-------------------------
+-------------------------
+| grad_norm  | 0.17     |
+| param_norm | 52.8     |
+| samples    | 8.58e+05 |
+| step       | 3.35e+03 |
+| train_loss | 0.028    |
+| train_mse  | 0.028    |
+| val_loss   | 0.0273   |
+| val_mse    | 0.0273   |
+-------------------------
+-------------------------
+| grad_norm  | 0.156    |
+| param_norm | 52.8     |
+| samples    | 8.71e+05 |
+| step       | 3.4e+03  |
+| train_loss | 0.0277   |
+| train_mse  | 0.0277   |
+| val_loss   | 0.0257   |
+| val_mse    | 0.0257   |
+-------------------------
+-------------------------
+| grad_norm  | 0.217    |
+| param_norm | 52.8     |
+| samples    | 8.83e+05 |
+| step       | 3.45e+03 |
+| train_loss | 0.0296   |
+| train_mse  | 0.0296   |
+| val_loss   | 0.0269   |
+| val_mse    | 0.0269   |
+-------------------------
+-------------------------
+| grad_norm  | 0.189    |
+| param_norm | 52.8     |
+| samples    | 8.96e+05 |
+| step       | 3.5e+03  |
+| train_loss | 0.0289   |
+| train_mse  | 0.0289   |
+| val_loss   | 0.027    |
+| val_mse    | 0.027    |
+-------------------------
+-------------------------
+| grad_norm  | 0.175    |
+| param_norm | 52.8     |
+| samples    | 9.09e+05 |
+| step       | 3.55e+03 |
+| train_loss | 0.0293   |
+| train_mse  | 0.0293   |
+| val_loss   | 0.0267   |
+| val_mse    | 0.0267   |
+-------------------------
+-------------------------
+| grad_norm  | 0.149    |
+| param_norm | 52.8     |
+| samples    | 9.22e+05 |
+| step       | 3.6e+03  |
+| train_loss | 0.0285   |
+| train_mse  | 0.0285   |
+| val_loss   | 0.0275   |
+| val_mse    | 0.0275   |
+-------------------------
+-------------------------
+| grad_norm  | 0.19     |
+| param_norm | 52.8     |
+| samples    | 9.35e+05 |
+| step       | 3.65e+03 |
+| train_loss | 0.0282   |
+| train_mse  | 0.0282   |
+| val_loss   | 0.0255   |
+| val_mse    | 0.0255   |
+-------------------------
+-------------------------
+| grad_norm  | 0.225    |
+| param_norm | 52.8     |
+| samples    | 9.47e+05 |
+| step       | 3.7e+03  |
+| train_loss | 0.0291   |
+| train_mse  | 0.0291   |
+| val_loss   | 0.0268   |
+| val_mse    | 0.0268   |
+-------------------------
